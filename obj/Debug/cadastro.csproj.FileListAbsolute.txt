@@ -1,0 +1,10 @@
+C:\Users\Mateus\Documents\Projetos C#\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\Mateus\Documents\Projetos C#\cadastro\bin\Debug\cadastro.exe
+C:\Users\Mateus\Documents\Projetos C#\cadastro\bin\Debug\cadastro.pdb
+C:\Users\Mateus\Documents\Projetos C#\cadastro\obj\Debug\cadastro.csprojAssemblyReference.cache
+C:\Users\Mateus\Documents\Projetos C#\cadastro\obj\Debug\cadastro.frmCadastro.resources
+C:\Users\Mateus\Documents\Projetos C#\cadastro\obj\Debug\cadastro.Properties.Resources.resources
+C:\Users\Mateus\Documents\Projetos C#\cadastro\obj\Debug\cadastro.csproj.GenerateResource.cache
+C:\Users\Mateus\Documents\Projetos C#\cadastro\obj\Debug\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\Projetos C#\cadastro\obj\Debug\cadastro.exe
+C:\Users\Mateus\Documents\Projetos C#\cadastro\obj\Debug\cadastro.pdb
